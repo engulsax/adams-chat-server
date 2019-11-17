@@ -1,2 +1,2 @@
-# En Gul Chatserver
-En chatserver designad i QT designer och programmerad i Python
+# Adams Chat Server
+A chat server designed in QT and programmed in Python.
